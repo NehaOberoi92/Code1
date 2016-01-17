@@ -1,4 +1,4 @@
 Hi
 dev1 work
 dev2 work
-this is conflict case!
+This is conflict scenario_2!this is conflict case!
