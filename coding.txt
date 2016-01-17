@@ -1,8 +1,4 @@
 Hi
 dev1 work
 dev2 work
-This is conflict scenario_2!
-this is conflict case!
-hi
-this is stash scenario
-Hi this is new conflict scenario_23
+This is conflict scenario_2!This is new conlict case 3hithis is stash scenarioHi this is new conflict scenario_23
